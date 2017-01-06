@@ -1,7 +1,7 @@
 # genepleio
 Genepleio is a program to calculate the gene pleiotropy.
 
-The software is developed in Gu Xun's lab in Fudan university and Iowa state university.
+The software is developed in Xun Gu's lab in Fudan university and Iowa state university.
 
 If you use it, please cite the following paper:
 
